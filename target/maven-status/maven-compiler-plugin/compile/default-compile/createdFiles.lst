@@ -1,0 +1,10 @@
+espar3v\librarydatabase\LibraryConnection\Book.class
+espar3v\librarydatabase\LibraryConnection\Library.class
+espar3v\librarydatabase\LibraryConnection\LibraryConnection.class
+espar3v\librarydatabase\LibraryConnection\Publication.class
+espar3v\librarydatabase\LibraryConnection\Encyclopedia.class
+espar3v\librarydatabase\LibraryConnection\Magazine.class
+espar3v\librarydatabase\LibraryConnection\LibraryService.class
+espar3v\librarydatabase\LibraryConnection\Comic.class
+espar3v\librarydatabase\LibraryConnection\LibraryDB.class
+espar3v\librarydatabase\LibraryConnection\Newspaper.class
