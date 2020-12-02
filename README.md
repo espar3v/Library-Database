@@ -1,2 +1,2 @@
 # Library-Database
-Base de datos MySQL conectada a una biblioteca en java hecha en NetBeans a la cual puedes agregar, leer, modificar y eliminar libros, revistas, periodicos, enciclopedias y comics.
+MySQL Database connected to a virtual library made in java with the NetBeans IDE with which you can make CRUDs, Create, Read, Update & Delete: Books, Magazines, Newspapers, Encyclopedias & Comics.
